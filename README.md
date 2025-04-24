@@ -1,4 +1,4 @@
-# # Sadeed: Advancing Arabic Diacritization
+# Sadeed: Advancing Arabic Diacritization
 
 This repository contains evaluation code and benchmark data for Sadeed, a state-of-the-art model for Arabic text diacritization based on a fine-tuned decoder-only language model.
 
@@ -17,3 +17,9 @@ SadeedDiac-25 is a novel benchmark designed to address limitations in existing A
 - Balanced representation: 50% MSA and 50% CA
 - Expert-reviewed diacritization
 - Diverse content spanning various domains (sports, politics, religion, culinary arts, etc.)
+
+## Datasets
+
+🤗 you can download the cleaned version of Tashkela [Clean Tashkela Dataset](https://huggingface.co/datasets/ARBML/clean-tashkela)
+
+🤗 you can Download SadeedDiac-25 on huggingface [SadeedDiac-25 Benchmark](https://huggingface.co/datasets/ARBML/SadeedDiac-25)
