@@ -20,6 +20,6 @@ SadeedDiac-25 is a novel benchmark designed to address limitations in existing A
 
 ## Datasets
 
-🤗 you can download the cleaned version of Tashkela [Clean Tashkela Dataset](https://huggingface.co/datasets/ARBML/clean-tashkela)
+🤗 you can download the cleaned version of Tashkela [Clean Tashkela Dataset](https://huggingface.co/datasets/Misraj/Sadeed_Tashkeela)
 
-🤗 you can Download SadeedDiac-25 on huggingface [SadeedDiac-25 Benchmark](https://huggingface.co/datasets/ARBML/SadeedDiac-25)
+🤗 you can Download SadeedDiac-25 on huggingface [SadeedDiac-25 Benchmark](https://huggingface.co/datasets/Misraj/SadeedDiac-25)
